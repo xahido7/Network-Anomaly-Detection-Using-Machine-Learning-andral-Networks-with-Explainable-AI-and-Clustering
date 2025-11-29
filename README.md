@@ -117,3 +117,6 @@ USES_ATTACK
 PART_OF_BOTNET
 CONNECTS_TO
 Visualizes attack propagation paths.
+### 6.	Screenshots / Demos
+Show what the graph looks like. - ![Alt text][(https://github.com/username/repo/assets/image.png](https://github.com/xahido7/Network-Anomaly-Detection-Using-Machine-Learning-andral-Networks-with-Explainable-AI-and-Clustering/blob/main/knowledge_graph.png))
+Show what the graph looks like. - ![Alt text][(https://github.com/username/repo/assets/image.png](https://github.com/xahido7/Network-Anomaly-Detection-Using-Machine-Learning-andral-Networks-with-Explainable-AI-and-Clustering/blob/main/knowledge_graph.png))
